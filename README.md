@@ -1,1 +1,2 @@
 # cl-read-mzml
+A simple reader of [mzML](https://www.psidev.info/mzML) file format to store mass spectrometry data. Includes minimalistic XML parser and accessory functions to read and transform profile spectra to centroided.
